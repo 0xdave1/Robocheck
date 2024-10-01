@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Robocheck/static/css/main.53cb0abf.css",
+    "main.js": "/Robocheck/static/js/main.961f9716.js",
+    "static/js/453.c091407e.chunk.js": "/Robocheck/static/js/453.c091407e.chunk.js",
+    "static/media/SEGA.woff": "/Robocheck/static/media/SEGA.8a619f32417a0fe72728.woff",
+    "index.html": "/Robocheck/index.html",
+    "main.53cb0abf.css.map": "/Robocheck/static/css/main.53cb0abf.css.map",
+    "main.961f9716.js.map": "/Robocheck/static/js/main.961f9716.js.map",
+    "453.c091407e.chunk.js.map": "/Robocheck/static/js/453.c091407e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53cb0abf.css",
+    "static/js/main.961f9716.js"
+  ]
+}
